@@ -3,8 +3,6 @@
 **Date:** 2025-11-07  
 **Author:** Kel (Kelevi Rakuita)
 
-This delivers a cleaner UI and deeper rugby logic while staying single-file and submission-ready.
-
 ---
 
 ## 0) Encabulation (Plan → Build → Iterate)
